@@ -1,0 +1,16 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Phoenix"
+license = "GNU Affero General Public License v3.0"
+licenselink = "https://github.com/MarkHoo/hugo-theme-phoenix/blob/master/LICENSE"
+description = "A Base theme for building full featured Hugo sites"
+homepage = "https://github.com/MarkHoo/hugo-theme-phoenix"
+tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons", "Multilingual", "Stackbit"]
+features = ["posts", "shortcodes", "related content", "comments"]
+min_version = "0.41"
+
+[author]
+  name = "MarkHoo"
+  homepage = "https://www.markhoo.com"
+
